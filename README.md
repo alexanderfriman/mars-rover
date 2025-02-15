@@ -1,5 +1,5 @@
 # Tellus Stick-To-It-Iveness Rover
-![Banner](https://github.com/alexanderfriman/mars-rover/blob/main/tellus_rover.jpg)
+![Banner](https://github.com/alexanderfriman/mars-rover/blob/main/images/tellus_rover.jpg)
 Created by: Alexander Friman, Simon Nordgren, Martin Björkell & Jonas Båsk.
 
 ## Video
@@ -36,7 +36,7 @@ This is a robotics project done at Aalto University for the Sähköpaja course. 
 |     | Bolts, nuts, washers, skrews    |
 
 ## Circuit Diagram
-![Banner](https://github.com/alexanderfriman/mars-rover/blob/main/Curcuit_Diagram.png)
+![Banner](https://github.com/alexanderfriman/mars-rover/blob/main/images/Curcuit_Diagram.png)
 
 
 
