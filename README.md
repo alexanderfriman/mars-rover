@@ -53,7 +53,7 @@ This is a robotics project done at Aalto University for the Sähköpaja course. 
 ![Mars_Rover_Box.svg](https://github.com/alexanderfriman/mars-rover/blob/main/Mars_Rover_Box.svg)<br/>
 
 ## Ackermann steering geometry
-![Ackermann](https://github.com/alexanderfriman/mars-rover/blob/main/images/Ackermann_steering.png)<br/>
+![Banner](https://github.com/alexanderfriman/mars-rover/blob/main/images/Ackermann_steering.png)
 
 
 
