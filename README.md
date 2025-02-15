@@ -1,2 +1,1 @@
-# mars-rover
-Files and documentation for a miniature mars rover robotics project.
+###Tellus Stick-To-It-Iveness Rover
