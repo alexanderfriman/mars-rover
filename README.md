@@ -11,7 +11,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 This is a robotics project done at Aalto University for the Sähköpaja course. We built a miniature rover inspired by NASA's mars rover Perseverance. The rover features the rocker-bogie suspensionsystem and Ackermann's steering geometry, but does not include any measuring devices. It is controlled through bluetooth with a PlayStation 4 controller which is connected to an ESP32. 
 
 ## Parts
-### Electrical components
+| Amt | Electrical components           |
+| --- | ------------------------------- |
 |  1x | ESP32 Wrover E                  |
 |  2x | TB6612FNG motordriver           |
 |  6x | DG01D DC-motor                  |
