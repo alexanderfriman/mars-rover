@@ -36,7 +36,7 @@ This is a robotics project done at Aalto University for the Sähköpaja course. 
 |     | Bolts, nuts, washers, skrews    |
 
 ## Circuit Diagram
-![Banner](https://github.com/alexanderfriman/mars-rover/blob/main/Mars Rover Curcuit Diagram (1).png)
+![Banner](https://github.com/alexanderfriman/mars-rover/blob/main/Curcuit_Diagram.png)
 
 
 
