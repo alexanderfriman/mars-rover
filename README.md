@@ -49,7 +49,11 @@ This is a robotics project done at Aalto University for the Sähköpaja course. 
 4x ![outer_wheelpart.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/leg_inside.stl)<br/>
 4x ![servo_backside.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/servo_backside.stl)<br/>
 
+## Acrylic parts
+![Mars_Rover_Box.svg](https://github.com/alexanderfriman/mars-rover/blob/main/Mars_Rover_Box.svg)<br/>
 
+## Ackermann steering geometry
+![Ackermann](https://github.com/alexanderfriman/mars-rover/blob/main/images/Ackermann_steering.png)<br/>
 
 
 
