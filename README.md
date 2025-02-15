@@ -39,7 +39,7 @@ This is a robotics project done at Aalto University for the Sähköpaja course. 
 ![Banner](https://github.com/alexanderfriman/mars-rover/blob/main/images/Curcuit_Diagram.png)
 
 ## 3D-Printed Parts
-
+![4x](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/servo_backside.stl)
 
 
 
