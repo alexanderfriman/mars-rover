@@ -39,7 +39,19 @@ This is a robotics project done at Aalto University for the Sähköpaja course. 
 ![Banner](https://github.com/alexanderfriman/mars-rover/blob/main/images/Curcuit_Diagram.png)
 
 ## 3D-Printed Parts
-![4x](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/servo_backside.stl)
+2x ![back_servo.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/back_servo.stl)
+3x ![box_connector.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/box_connector.stl)
+2x ![front_servo.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/front_servo.stl)
+2x ![leg_inside.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/leg_inside.stl)
+2x ![leg_main.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/leg_main.stl)
+2x ![leg_outside.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/leg_outside.stl)
+1x ![middle_wheelpart.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/leg_inside.stl)
+4x ![outer_wheelpart.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/leg_inside.stl)
+4x ![servo_backside.stl](https://github.com/alexanderfriman/mars-rover/blob/main/3D-parts/servo_backside.stl)
+
+
+
+
 
 
 
